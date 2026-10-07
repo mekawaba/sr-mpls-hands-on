@@ -28,8 +28,8 @@ interface HundredGigE0/0/0/2
  bundle id 1 mode on
 !</code></pre>
 
-Ubuntu側にもLACP設定を行います。UbuntuにてTerminalを開き、/etc/netplanにディレクトリを移動します。そして、01-netcfg.yaml を新規作成します。<br>
-（Password: 講師よりお伝えします）
+Ubuntu側にもLACP設定を行います。デスクトップにある nso-server の TeraTerm アイコンをクリックすると、Ubuntu (198.18.134.27) にアクセスできます。
+その後、/etc/netplanにディレクトリを移動して、01-netcfg.yaml を新規作成します。<br>
 
 ![](images/image02.png){ style="width:100%" }
 
